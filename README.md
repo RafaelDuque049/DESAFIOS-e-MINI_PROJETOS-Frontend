@@ -12,5 +12,9 @@
             <a href="https://github.com/RafaelDuque049/DESAFIOS-e-MINI_PROJETOS-Frontend/tree/main/P%C3%A1gina%20Android" target="_blank"><abbr title="Arquivos do desafio" style="text-decoration: none;">História Android</abbr></a>:
             <a href="https://rafaelduque049.github.io/DESAFIOS-e-MINI_PROJETOS-Frontend/P%C3%A1gina%20Android/Android.html" target="_blank"><abbr title="Página web" style="text-decoration: none;">Página completa</abbr></a>.
         </li>
+        <li> Desafio
+            <a href="https://github.com/RafaelDuque049/DESAFIOS-e-MINI_PROJETOS-Frontend/tree/main/Cordel%20Moderno" target="_blank"><abbr title="Arquivos do desafio" style="text-decoration: none;">Cordel Moderno</abbr></a>:
+            <a href="https://rafaelduque049.github.io/DESAFIOS-e-MINI_PROJETOS-Frontend/Cordel%20Moderno/main.html" target="_blank"><abbr title="Página web" style="text-decoration: none;">Página completa</abbr></a>.
+        </li>
     </ul>
 </body>
